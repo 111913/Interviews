@@ -94,6 +94,12 @@
 ### 17. Что такое LiveData
 ![image](https://user-images.githubusercontent.com/43163262/202925447-83422c49-2375-4399-9557-e04fc0de3501.png)
 
+### 18. Подписка на LiveData во фрагментах
+![image](https://user-images.githubusercontent.com/43163262/202925869-3dd96559-f44f-4e8e-8be6-6de6f443091d.png)
+
+### 19. Разница между LiveData.observe() и LiveData.observeForever()
+![image](https://user-images.githubusercontent.com/43163262/202925916-07c47671-5c16-4915-9307-b975ad4739e3.png)
+
 ## Остальное
 
 ### Как работать с сетью, Чутка про многопоточность доделать
