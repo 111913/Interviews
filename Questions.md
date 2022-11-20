@@ -1,4 +1,5 @@
 # Kotlin
+
 ### 1.  Безопасная работа с обнуляемыми переменными (null safety)
 ![image](https://user-images.githubusercontent.com/43163262/202920404-597fbb12-40f8-4bf4-9b74-21cbdd026dd6.png) 
 
@@ -22,5 +23,16 @@
 
 ### 8. Функции высшего порядка
 ![image](https://user-images.githubusercontent.com/43163262/202921061-849f6885-1765-409a-ba03-938ab67ae6a3.png)
+
+### 9. Data-классы
+![image](https://user-images.githubusercontent.com/43163262/202921474-23292f3d-a9d0-4dd6-b566-153ee5257a46.png)
+
+### 10. Статические члены
+![image](https://user-images.githubusercontent.com/43163262/202921566-0bafc0ab-7784-41b6-bf03-cefd498d56de.png)
+
+### 11. Ленивая иницализация
+![image](https://user-images.githubusercontent.com/43163262/202921786-58b2f441-1c46-4b19-af3e-2011c5bad9a2.png)
+
+# Android
 
 
